@@ -3520,7 +3520,7 @@ updates.data = {
 	relevant_version = '',
 	url_update = '',
 	tooken = '',
-	url_json = 'https://raw.githubusercontent.com/JekSkeez/afktools/main/afktools_p.json' 
+	url_json = 'https://raw.githubusercontent.com/JekSkeez/afktoolss/main/afktools_p.json?token=GHSAT0AAAAAAB565W4HJFORAD7BU4Z4UO7OY6SY5DA' 
 }
 function updates:getlast(autoupd)
 	print('call getlast')
